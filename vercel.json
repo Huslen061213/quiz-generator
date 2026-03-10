@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "installCommand": "npm install",
+  "buildCommand": "cd frontend && node ../node_modules/next/dist/bin/next build --webpack",
+  "outputDirectory": "frontend/.next"
+}
